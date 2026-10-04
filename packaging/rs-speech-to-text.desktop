@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Speech to Text
+Comment=Record and transcribe speech with OpenAI gpt-4o-transcribe
+Exec=@BIN@
+Icon=rs-speech-to-text
+Terminal=false
+Categories=Utility;
+Keywords=transcribe;speech;dictation;voice;
+StartupWMClass=rs-speech-to-text
